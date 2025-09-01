@@ -9,7 +9,10 @@ The main goal of this project was to **practice different types of Power BI char
 ## 📊 Dashboard Image
 
 <img width="910" height="518" alt="Image" src="https://github.com/user-attachments/assets/773e19f9-9c71-4fb8-ac81-b549358092e5" />
+
 ---
+
+
 ## 📊 Dashboard Features  
 
 ### 🔹 Key Metrics (Cards)  
